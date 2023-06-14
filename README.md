@@ -8,7 +8,7 @@ ingredients to form a healthy way of eating.
 
 ## Tech Stack
 
-1. Frontend: React, Redux Toolkit, React Router, Axios, styled-components,
+1. Frontend: React, React Router, Redux Toolkit, Axios, styled-components,
    @mui/material, Formik, Yup, react-icons, react-toastify.
 2. Backend: Node.js, Express.js, mongoose, multer, joi, jsonwebtoken,
    bcryptjs,nodemailer, cross-env, cloudinary
