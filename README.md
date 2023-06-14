@@ -1,4 +1,4 @@
-# [![So-yummy](./src/images/icons/logo-desktop.svg)](https://bohdan100.github.io/so-yummy-frontend/main) So-yummy App - Your Ultimate Cooking Companion
+# [![So-yummy](./src/images/icons/logo.svg)](https://bohdan100.github.io/so-yummy-frontend/main) So-yummy App - Your Ultimate Cooking Companion
 
 So-yummy is a feature-rich single-page application (SPA) designed to enhance
 your culinary experience. Whether you're searching for mouthwatering recipes or
