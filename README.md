@@ -78,8 +78,8 @@ To install and run the So-yummy App locally, follow these steps:
 
 ### Backend
 
-[https://so-yummy-98ev.onrender.com](https://so-yummy-98ev.onrender.com).
-[GitHub backend link](https://github.com/lisitsyna-anna/so-yummy-backend)
+- [https://so-yummy-98ev.onrender.com](https://so-yummy-98ev.onrender.com)
+- [GitHub backend link](https://github.com/lisitsyna-anna/so-yummy-backend)
 
 ### Swagger documentation
 
